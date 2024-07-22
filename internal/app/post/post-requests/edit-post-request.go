@@ -1,0 +1,3 @@
+package post_requests
+
+type EditPostRequest CreatePostRequest
